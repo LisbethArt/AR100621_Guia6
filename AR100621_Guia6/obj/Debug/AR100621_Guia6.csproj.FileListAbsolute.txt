@@ -1,0 +1,16 @@
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia6\AR100621_Guia6\bin\Debug\AR100621_Guia6.exe.config
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia6\AR100621_Guia6\bin\Debug\AR100621_Guia6.exe
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia6\AR100621_Guia6\bin\Debug\AR100621_Guia6.pdb
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia6\AR100621_Guia6\bin\Debug\EntityFramework.dll
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia6\AR100621_Guia6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia6\AR100621_Guia6\bin\Debug\EntityFramework.xml
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia6\AR100621_Guia6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia6\AR100621_Guia6\obj\Debug\AR100621_Guia6.csproj.AssemblyReference.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia6\AR100621_Guia6\obj\Debug\AR100621_Guia6.Form1.resources
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia6\AR100621_Guia6\obj\Debug\AR100621_Guia6.FrmTabla.resources
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia6\AR100621_Guia6\obj\Debug\AR100621_Guia6.Properties.Resources.resources
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia6\AR100621_Guia6\obj\Debug\AR100621_Guia6.csproj.GenerateResource.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia6\AR100621_Guia6\obj\Debug\AR100621_Guia6.csproj.CoreCompileInputs.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia6\AR100621_Guia6\obj\Debug\AR100621_Guia6.csproj.CopyComplete
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia6\AR100621_Guia6\obj\Debug\AR100621_Guia6.exe
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia6\AR100621_Guia6\obj\Debug\AR100621_Guia6.pdb

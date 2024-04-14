@@ -1,0 +1,15 @@
+USE MASTER;
+
+CREATE DATABASE BDD_UFG;
+
+USE BDD_UFG;
+
+CREATE TABLE Persona(
+id INT PRIMARY KEY,
+nombre VARCHAR(50),
+correo VARCHAR(50),
+fecha_nacimiento DATETIME);
+
+SELECT @@SERVERNAME AS 'Nombre del servidor';
+
+SELECT * FROM Persona;
